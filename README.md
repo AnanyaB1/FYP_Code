@@ -2,8 +2,8 @@
 
 ## Porject Structure Overview
 
-- `HCP_FC` folder: Contains Functional Connectome X.npy dataset for 836 subjects.
-- `HCP_SC` folder: Contains Structural Connectome X.npy dataset for 836 subjects.
+- `HCP_FC` folder: Contains Functional Connectome X.npy dataset for 839 subjects.
+- `HCP_SC` folder: Contains Structural Connectome X.npy dataset for 839 subjects.
 - `HCP_Transformer` folder: Contains the Transformer Model for the prediction of cognitive scores, and utility scripts for data preparation, training, testing, and result aggregation.
 - `SFI-GCN` folder: Contains the SFI-GCN Models for the prediction of cognitive scores and gender, and utility scripts for gata preparation, training, testing, and result aggregation.
 - `scores` folder: Contains .npy files for cognitive scores and gender.

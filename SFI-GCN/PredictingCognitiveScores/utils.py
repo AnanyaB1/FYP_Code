@@ -13,7 +13,7 @@ def create_dataset_FC(data, indexx):
     a graph data structure for each subject
 
     Parameters:
-    - data: 3D numpy array of size 836x116x116 containing FC data for each 836 participants
+    - data: 3D numpy array of size 839x116x116 containing FC data for each 839 participants
     - indexx: The indices corresponding to each subject
 
     Returns:
@@ -49,7 +49,7 @@ def create_dataset_SC(data, indexx):
     Edges in the graph are determined by the strength of connections, with a threshold (0.6) applied.
 
     Parameters:
-    - data: 3D numpy array of size 836x116x116 containing SC data for each 836 participants
+    - data: 3D numpy array of size 839x116x116 containing SC data for each 839 participants
     - indexx: The indices corresponding to each subject
 
     Returns:
@@ -84,8 +84,8 @@ def create_fusion_end_dataset(data_FC, data_SC, indexx):
     for FC data and strength threshold of 0.6 for SC data.
 
     Parameters:
-    - data_FC: 3D numpy array of size 836x116x116 containing FC data for each 836 participants
-    - data_SC: 3D numpy array of size 836x116x116 containing SC data for each 836 participants
+    - data_FC: 3D numpy array of size 839x116x116 containing FC data for each 839 participants
+    - data_SC: 3D numpy array of size 839x116x116 containing SC data for each 839 participants
     - indexx: The indices corresponding to each subject
 
     Returns:
