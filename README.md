@@ -1,7 +1,4 @@
-# FYP Code Overview
-
-Predicting Gender and Cognitive Scores from Structural and Functional Connectome
-
+# Predicting Gender and Cognitive Scores from Structural and Functional Connectome
 
 ## Porject Structure Overview
 
@@ -12,6 +9,7 @@ Predicting Gender and Cognitive Scores from Structural and Functional Connectome
 - `scores` folder: Contains .npy files for cognitive scores and gender.
 
 ## Detailed Project Structure
+```plaintext
 .
 ├── HCP_FC/
 │   └── X.npy
@@ -94,7 +92,7 @@ Predicting Gender and Cognitive Scores from Structural and Functional Connectome
     ├── PicVocab_Unadj_HCP.npy
     ├── ProcSpeed_Unadj_HCP.npy
     └── ReadEng_Unadj_HCP.npy
-
+```
 ## Data directory
 - FC dataset: Located in /HCP_FC/X.npy
 - SC dataset: Located in /HCP_SC/X.npy

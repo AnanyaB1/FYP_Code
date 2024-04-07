@@ -43,15 +43,15 @@ python train_fusion_GCN_SC.py`
 
 ### For all models:
 - Upon execution, you will be prompted to select the cognitive score to predict: 
-`0: CogFluidComp`                                                                                                                  
-`1: PicSeq`
-`2: PicVocab`
-`3: ReadEng`
-`4: CardSort`
-`5: ListSort`
-`6: Flanker`
-`7: ProcSpeed`
-`Enter the index of the score you want to predict:`
+`0: CogFluidComp` <br />                                                                                                             
+`1: PicSeq`<br />
+`2: PicVocab`<br />
+`3: ReadEng`<br />
+`4: CardSort`<br />
+`5: ListSort`<br />
+`6: Flanker`<br />
+`7: ProcSpeed`<br />
+`Enter the index of the score you want to predict:`<br />
 - Enter desired index
 - Results will be outputted to specified directories
 
