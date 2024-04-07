@@ -48,34 +48,7 @@
 │   │   ├── model.py
 │   │   ├── README.md
 │   │   ├── SplitGender/
-│   │   │   ├── presplit2/
-│   │   │   │   ├── test_fold_1.npy
-│   │   │   │   ├── test_fold_2.npy
-│   │   │   │   ├── test_fold_3.npy
-│   │   │   │   ├── test_fold_4.npy
-│   │   │   │   ├── test_fold_5.npy
-│   │   │   │   ├── train_fold_1.npy
-│   │   │   │   ├── train_fold_2.npy
-│   │   │   │   ├── train_fold_3.npy
-│   │   │   │   ├── train_fold_4.npy
-│   │   │   │   └── train_fold_5.npy
-│   │   │   ├── presplit3/
-│   │   │   │   ... (similar structure as presplit2)
-│   │   │   ├── presplit4/
-│   │   │   │   ... (similar structure as presplit2)
-│   │   │   ├── presplit5/
-│   │   │   │   ... (similar structure as presplit2)
-│   │   │   ├── split_gender.py
-│   │   │   ├── test_fold_1.npy
-│   │   │   ├── test_fold_2.npy
-│   │   │   ├── test_fold_3.npy
-│   │   │   ├── test_fold_4.npy
-│   │   │   ├── test_fold_5.npy
-│   │   │   ├── train_fold_1.npy
-│   │   │   ├── train_fold_2.npy
-│   │   │   ├── train_fold_3.npy
-│   │   │   ├── train_fold_4.npy
-│   │   │   └── train_fold_5.npy
+│   │   │   └ ... (presplit data)
 │   │   ├── svc.py
 │   │   ├── train_fusion_class.py
 │   │   ├── train_fusion_GCN_FC_Class.py

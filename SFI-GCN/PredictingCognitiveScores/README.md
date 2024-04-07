@@ -42,7 +42,7 @@ python train_fusion_GCN_SC.py`
 ```
 
 ### For all models:
-- Upon execution, you will be prompted to select the cognitive score to predict: 
+- Upon execution, you will be prompted to select the cognitive score to predict: <br />
 `0: CogFluidComp` <br />                                                                                                             
 `1: PicSeq`<br />
 `2: PicVocab`<br />
