@@ -56,9 +56,9 @@ python train_fusion_GCN_SC.py`
 - Results will be outputted to specified directories
 
 ## Data directory
-- FC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_FC/X.npy
-- SC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_SC/X.npy
-- Scores: Located in /home/ananya012/MainCodebase/SFI-GCN/scores, one for each score
+- FC dataset: Located in /HCP_FC/X.npy
+- SC dataset: Located in /HCP_SC/X.npy
+- Scores: Located in /scores, one for each score
 
 ## Results directory
 - Edit `data_dir` in the codes to alter where results are saved

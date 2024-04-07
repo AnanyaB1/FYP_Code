@@ -20,6 +20,6 @@ python main_trans.py
 ```
 
 ## Data directory
-- FC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_FC/X.npy
-- SC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_SC/X.npy
-- Score: Files located in /home/ananya012/MainCodebase/SFI-GCN/scores
+- FC dataset: Located in /HCP_FC/X.npy
+- SC dataset: Located in /HCP_SC/X.npy
+- Scores: Located in /scores, one for each score

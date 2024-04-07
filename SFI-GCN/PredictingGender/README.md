@@ -47,6 +47,6 @@ python train_fusion_GCN_SC_Class.py
 - Results will be outputted to specified directories
 
 ## Data directory
-- FC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_FC/X.npy
-- SC dataset: Located in /home/ananya012/MainCodebase/SFI-GCN/HCP_SC/X.npy
-- Gender: Located in /home/ananya012/MainCodebase/SFI-GCN/scores/Gender_HCP.npy
+- FC dataset: Located in /HCP_FC/X.npy
+- SC dataset: Located in /HCP_SC/X.npy
+- Gender: Located in /scores/Gender_HCP.npy
