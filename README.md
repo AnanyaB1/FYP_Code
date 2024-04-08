@@ -1,6 +1,6 @@
 # Predicting Gender and Cognitive Scores from Structural and Functional Connectome
 
-## Porject Structure Overview
+## Project Structure Overview
 
 - `HCP_FC` folder: Contains Functional Connectome X.npy dataset for 839 subjects.
 - `HCP_SC` folder: Contains Structural Connectome X.npy dataset for 839 subjects.
